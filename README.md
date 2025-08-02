@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeanPress1
 - 👀 I’m interested in matamatical calculation apps.
-- 🌱 I’m currently learning Visual Basic
-- 💞️ I’m looking to collaborate on DataGridView & Charts
+- 🌱 I’m currently learning .NET MAUI
+- 💞️ I’m looking to collaborate on ceating charts from calculated tables.
 - 📫 How to reach me sean.presslie@btinternet.com
 
 <!---
